@@ -1,5 +1,10 @@
 # Copy Path Changelog
 
+## [Add URL cleanup preference] - 2026-03-04
+
+- Add URL cleanup preference with modes to remove tracking params or strip query + fragment.
+- Default cleanup now strips query parameters and fragments for copied URLs.
+
 ## [Fix browser support] - 2025-08-28
 
 - Fix support for browsers.
